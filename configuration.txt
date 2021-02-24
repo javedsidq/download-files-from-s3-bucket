@@ -1,0 +1,5 @@
+{
+    "aws_access_key_id": "<enter aws access id>",
+    "aws_secret_access_key": "<enter aws secret key>",
+    "region_name": "<enter your region code>"
+}
