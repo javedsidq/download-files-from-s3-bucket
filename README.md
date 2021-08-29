@@ -5,6 +5,8 @@ With this code you can download all the files stored in your S3 Bucket. This cod
 2. config.json
 3. main.ipynb
 
-You need to put modifiy the information of the config.json file. Put your AWS secret and access keys in the config.json file and keep all the files in the same folder. 
+You need to modify the information of the config.json file. Put your AWS secret and access keys in the config.json file and keep all the files in the same folder. Run the main.ipynb file in your Jupiter notebook. All files will gets downloaded in your same folder where the data is stored.
 
-If facing any issues, you can let me know. 
+Put your comments in discussion section.
+
+If facing any issues, you can let me know.
